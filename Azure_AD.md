@@ -86,3 +86,5 @@ following benefits:
 - Helps you specify which audience you want your application to sign in
 - Helps you set up your application from configuration files
 - Helps you troubleshoot your app by exposing actionable exceptions, logging, and telemetry
+
+The demo project has been copied from [Azure GitHub repo](https://github.com/Azure-Samples/ms-identity-java-spring-tutorial/tree/main/1-Authentication/sign-in)
