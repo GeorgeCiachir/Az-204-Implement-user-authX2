@@ -88,3 +88,9 @@ following benefits:
 - Helps you troubleshoot your app by exposing actionable exceptions, logging, and telemetry
 
 The demo project has been copied from [Azure GitHub repo](https://github.com/Azure-Samples/ms-identity-java-spring-tutorial/tree/main/1-Authentication/sign-in)
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)

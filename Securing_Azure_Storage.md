@@ -80,3 +80,5 @@ Additionally, a SAS is required to authorize access to the source object in a co
   to the source file. You can optionally use a SAS to authorize access to the destination file as well
 - When you copy a blob to a file, or a file to a blob, you must use a SAS to authorize access to the source object, even 
   if the source and destination objects reside within the same storage account.
+
+![img_3.png](img_3.png)
